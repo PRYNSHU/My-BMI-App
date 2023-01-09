@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My-BMI-App</string>
+    <string name="wt">Enter your weight in kg</string>
+    <string name="htft">Enter your height in ft</string>
+    <string name="htin">Enter your height in In</string>
+    <string name="name">Enter your name</string>
+</resources>
